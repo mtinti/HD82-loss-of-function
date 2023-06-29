@@ -1,0 +1,5 @@
+Sample	Total	Assigned	Unassigned_Unmapped	Unassigned_MappingQuality	Unassigned_Chimera	Unassigned_FragmentLength	Unassigned_Duplicate	Unassigned_MultiMapping	Unassigned_Secondary	Unassigned_NonSplit	Unassigned_NoFeatures	Unassigned_Overlapping_Length	Unassigned_Ambiguity	percent_assigned
+Ald2	15748085	12557432	631401	0	214203	0	0	0	0	0	2345049	0	0	79.73942228531278
+Ald4	15686397	12754300	454175	0	363155	0	0	0	0	0	2114767	0	0	81.30802758593958
+VSG221_2	15721232	13496750	524736	0	131901	0	0	0	0	0	1567845	0	0	85.85046006572513
+VSG221_4	16421585	14538490	292011	0	98435	0	0	0	0	0	1492649	0	0	88.53280605982918

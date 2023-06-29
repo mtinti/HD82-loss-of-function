@@ -1,0 +1,41 @@
+Module	Section	Sample Name	Source
+Bowtie 2	all_sections	Ald2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald2/res2/Ald2/bowtie/Ald2.log
+Bowtie 2	all_sections	Ald4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald4/res2/Ald4/bowtie/Ald4.log
+Bowtie 2	all_sections	VSG221_2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_2/res2/VSG221_2/bowtie/VSG221_2.log
+Bowtie 2	all_sections	VSG221_4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_4/res2/VSG221_4/bowtie/VSG221_4.log
+Picard	DuplicationMetrics	Ald2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald2/res2/Ald2/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	Ald4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald4/res2/Ald4/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	VSG221_2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_2/res2/VSG221_2/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	VSG221_4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_4/res2/VSG221_4/markduplicates/marked_dup_metrics.txt
+FastQ Screen	all_sections	Ald2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald2/res2/Ald2/fastqs/Ald2_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	Ald4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald4/res2/Ald4/fastqs/Ald4_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	VSG221_2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_2/res2/VSG221_2/fastqs/VSG221_2_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	VSG221_4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_4/res2/VSG221_4/fastqs/VSG221_4_.sorted_unmap_all_2_screen.txt
+QualiMap	genome_results	Ald2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald2/res2/Ald2/qualimap_bam/Ald2/genome_results.txt
+QualiMap	genome_results	Ald4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald4/res2/Ald4/qualimap_bam/Ald4/genome_results.txt
+QualiMap	genome_results	VSG221_2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_2/res2/VSG221_2/qualimap_bam/VSG221_2/genome_results.txt
+QualiMap	genome_results	VSG221_4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_4/res2/VSG221_4/qualimap_bam/VSG221_4/genome_results.txt
+QualiMap	coverage_histogram	Ald2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald2/res2/Ald2/qualimap_bam/Ald2/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	Ald4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald4/res2/Ald4/qualimap_bam/Ald4/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	VSG221_2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_2/res2/VSG221_2/qualimap_bam/VSG221_2/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	VSG221_4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_4/res2/VSG221_4/qualimap_bam/VSG221_4/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	insert_size_histogram	Ald2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald2/res2/Ald2/qualimap_bam/Ald2/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	Ald4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald4/res2/Ald4/qualimap_bam/Ald4/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	VSG221_2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_2/res2/VSG221_2/qualimap_bam/VSG221_2/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	VSG221_4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_4/res2/VSG221_4/qualimap_bam/VSG221_4/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	mapped_gc_distribution	Ald2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald2/res2/Ald2/qualimap_bam/Ald2/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	Ald4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald4/res2/Ald4/qualimap_bam/Ald4/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	VSG221_2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_2/res2/VSG221_2/qualimap_bam/VSG221_2/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	VSG221_4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_4/res2/VSG221_4/qualimap_bam/VSG221_4/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	rna_genome_results	Ald2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald2/res2/Ald2/qualimap_rna/Ald2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Ald4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald4/res2/Ald4/qualimap_rna/Ald4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VSG221_2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_2/res2/VSG221_2/qualimap_rna/VSG221_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VSG221_4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_4/res2/VSG221_4/qualimap_rna/VSG221_4/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	Ald2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald2/res2/Ald2/qualimap_rna/Ald2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Ald4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald4/res2/Ald4/qualimap_rna/Ald4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VSG221_2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_2/res2/VSG221_2/qualimap_rna/VSG221_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VSG221_4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_4/res2/VSG221_4/qualimap_rna/VSG221_4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+featureCounts	all_sections	Ald2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald2/res2/Ald2/featureCounts/counts.txt.summary
+featureCounts	all_sections	Ald4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/Ald4/res2/Ald4/featureCounts/counts.txt.summary
+featureCounts	all_sections	VSG221_2	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_2/res2/VSG221_2/featureCounts/counts.txt.summary
+featureCounts	all_sections	VSG221_4	/cluster/majf_lab/mtinti/Anna_DH/F21FTSEUHT0831_TRYxdpqR/VSG221_4/res2/VSG221_4/featureCounts/counts.txt.summary
